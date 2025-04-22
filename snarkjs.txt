@@ -1,0 +1,95 @@
+[DEBUG] snarkJS: Calculating First Challenge Hash
+[DEBUG] snarkJS: Calculate Initial Hash: tauG1
+[DEBUG] snarkJS: Calculate Initial Hash: tauG2
+[DEBUG] snarkJS: Calculate Initial Hash: alphaTauG1
+[DEBUG] snarkJS: Calculate Initial Hash: betaTauG1
+[DEBUG] snarkJS: Blank Contribution Hash:
+                786a02f7 42015903 c6c6fd85 2552d272
+                912f4740 e1584761 8a86e217 f71f5419
+                d25e1031 afee5853 13896444 934eb04b
+                903a685b 1448b755 d56f701a fe9be2ce
+[INFO]  snarkJS: First Contribution Hash:
+                9e63a5f6 2b96538d aaed2372 481920d1
+                a40b9195 9ea38ef9 f5f6a303 3b886516
+                0710d067 c09d0961 5f928ea5 17bcdf49
+                ad75abd2 c8340b40 0e3b18e9 68b4ffef
+
+
+
+
+Enter a random text. (Entropy): kodecesar1234
+[DEBUG] snarkJS: Calculating First Challenge Hash
+[DEBUG] snarkJS: Calculate Initial Hash: tauG1
+[DEBUG] snarkJS: Calculate Initial Hash: tauG2
+[DEBUG] snarkJS: Calculate Initial Hash: alphaTauG1
+[DEBUG] snarkJS: Calculate Initial Hash: betaTauG1
+[DEBUG] snarkJS: processing: tauG1: 0/8191
+[DEBUG] snarkJS: processing: tauG2: 0/4096
+[DEBUG] snarkJS: processing: alphaTauG1: 0/4096
+[DEBUG] snarkJS: processing: betaTauG1: 0/4096
+[DEBUG] snarkJS: processing: betaTauG2: 0/1
+[INFO]  snarkJS: Contribution Response Hash imported:
+                0e2dad79 42400440 24a17e72 98da129c
+                83d340cb 8e78d7b5 ecc32d78 69416ae4
+                78f6c55f 4dfacf5d 6c74ea52 95a34c15
+                7cb71661 5b2f9831 8ffe804d 463a4e9d
+[INFO]  snarkJS: Next Challenge Hash:
+                f423806c df82543f a3f4b23a 9029326d
+                65be28a2 88529b02 12340662 3bc13009
+                af6ce91d 6615ea37 b0f2a29a 4b2ef395
+                a16af5a7 6e409f80 50800492 f2bd93c8
+
+
+
+                Enter a random text. (Entropy): kodecesar
+[DEBUG] snarkJS: Calculating First Challenge Hash
+[DEBUG] snarkJS: Calculate Initial Hash: tauG1
+[DEBUG] snarkJS: Calculate Initial Hash: tauG2
+[DEBUG] snarkJS: Calculate Initial Hash: alphaTauG1
+[DEBUG] snarkJS: Calculate Initial Hash: betaTauG1
+[DEBUG] snarkJS: processing: tauG1: 0/8191
+[DEBUG] snarkJS: processing: tauG2: 0/4096
+[DEBUG] snarkJS: processing: alphaTauG1: 0/4096
+[DEBUG] snarkJS: processing: betaTauG1: 0/4096
+[DEBUG] snarkJS: processing: betaTauG2: 0/1
+[INFO]  snarkJS: Contribution Response Hash imported:
+                7e92d4e6 700d2047 18e742f1 29cc19b9
+                b729e9cf 875786be 04164757 0c557e91
+                182bd279 baff5d81 f976ba31 ff0e0907
+                30ae5c9b 944e94dd a028f069 d28d1029
+[INFO]  snarkJS: Next Challenge Hash:
+                6e3e7371 c081b0d8 78aef7b6 682bb4ab
+                c13bf52e 5deaa56c 41440639 4a82135d
+                09ed6474 4868a607 a6e3b288 6de1383b
+                517a9aaa aa242707 c8d39941 fc0e1caf
+
+
+
+
+                [INFO]  snarkJS: Reading r1cs
+[INFO]  snarkJS: Reading tauG1
+[INFO]  snarkJS: Reading tauG2
+[INFO]  snarkJS: Reading alphatauG1
+[INFO]  snarkJS: Reading betatauG1
+[INFO]  snarkJS: Circuit hash:
+                b1404711 71730f53 29a9f073 d93a59d8
+                37a97b39 eb434aa1 0778b18b 5f39ddc2
+                7f7b2a0b 5959c9c6 2ee76100 38410798
+                9c0d38ff 6a5719e5 6dab53cc 12bba2b0
+
+
+
+
+                Enter a random text. (Entropy): arisbara
+[DEBUG] snarkJS: Applying key: L Section: 0/11
+[DEBUG] snarkJS: Applying key: H Section: 0/16
+[INFO]  snarkJS: Circuit Hash:
+                b1404711 71730f53 29a9f073 d93a59d8
+                37a97b39 eb434aa1 0778b18b 5f39ddc2
+                7f7b2a0b 5959c9c6 2ee76100 38410798
+                9c0d38ff 6a5719e5 6dab53cc 12bba2b0
+[INFO]  snarkJS: Contribution Hash:
+                e6814d2f 21c26ed7 399c2a20 d789dc4c
+                a560cda2 9c2498ed 921422e0 80261868
+                3c4c4025 0bd5b437 e2d6b7ee 99daadec
+                6f4e558a 0d6b57c4 5773fe18 45821c47

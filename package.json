@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "circomlibjs": "^0.1.7"
+  },
+  "devDependencies": {
+    "hardhat": "^2.23.0"
+  }
+}
